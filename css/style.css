@@ -17632,7 +17632,7 @@ html:not(.lt-ie10) .not-animated {
 	position: relative;
 	z-index: 100000;
 	height: 100%;
-	padding: 10px 0 20px;
+	padding: 60px 0 20px;
 	pointer-events: auto;
 	-webkit-overflow-scrolling: touch;
 	overflow-x: hidden;
